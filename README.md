@@ -5,8 +5,7 @@
 ## 📌 যা যা সেটআপ হবে
 * **সিস্টেম আপডেট:** সর্বাধুনিক প্যাকেজসমূহ।
 * **স্টোরেজ অ্যাক্সেস:** ফোনের ইন্টারনাল স্টোরেজ ব্যবহারের সুবিধা।
-* **পেকেজ:** Python 3 এবং Pip।
-* **ডেটা সায়েন্স লাইব্রেরি:** php,openssh,curl,figlet,nmap,java,ruby,zip,unzip,wget,tor,python2,espeak,rust,tur-repo।
+* **পেকেজ:** php,openssh,curl,figlet,nmap,java,ruby,zip,unzip,wget,tor,python2,espeak,rust,tur-repo।
 * **মডিউল:** bs4,faker,mechanize,httpx,requests,rich,Flask,fake_email,pyzipper,hashlib,bcrypt,httplib2,pycurl,user_agent,smtplib।
 
 
