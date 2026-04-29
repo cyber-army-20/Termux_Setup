@@ -23,3 +23,10 @@ pkg install git -y
 git clone https://github.com/cyber-army-20/Termux_Setup
 python termux_setup.py
 ```
+---
+###Through us, you can create commands for yourself or your group :- [OPEN](https://github.com/cyber-army-20/Termux_Command_Making)
+
+If you have any questions or need assistance, feel free to contact through our Telegram bot:
+
+[![](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/Cyber_Army_Chat_Bot)
+
